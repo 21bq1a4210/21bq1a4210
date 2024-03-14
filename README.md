@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django<br>👯 I’m looking to collaborate on Python<br>🤝 I’m looking for help with Django<br>🌱 I’m currently learning Go, java, Django<br>💬 Ask me about<br>⚡ Fun fact<br>#include<me.h><br>from brain import logic<br>import java.Test.success;
+🔭 I’m currently working on DL and Django<br>👯 I’m looking to collaborate on Python<br>🤝 I’m looking for help with tensorflow and Django<br>🌱 I’m currently learning DL, java, Django<br>💬 Ask me about<br>⚡ Fun fact<br>#include<me.h><br>from brain import logic<br>import java.Test.success;
 
 
 ## 🌐 Socials:
