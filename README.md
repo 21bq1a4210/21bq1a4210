@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on DL and Django<br>👯 I’m looking to collaborate on Python<br>🤝 I’m looking for help with tensorflow and Django<br>🌱 I’m currently learning DL, java, Django<br>💬 Ask me about<br>⚡ Fun fact<br>#include<me.h><br>from brain import logic<br>import java.Test.success;
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/!.Grimerghost2003#1380) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarath_0x8f) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarath-chandra-bandreddy-07393b1aa/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bandreddysarathchandra/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20522293) 
